@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Whataburger is so good
+This is not fine
 Use the left arrow to go back!
